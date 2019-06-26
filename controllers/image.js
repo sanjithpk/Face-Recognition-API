@@ -10,5 +10,5 @@ const handleImage = (db) => (req,res) => {
 }
 
 module.exports = {
-    handleImage: handleImage
+    handleImage
 }
